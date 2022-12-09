@@ -1,2 +1,2 @@
 # Project
-Ms. Sattari's workshop project
+<b><i> Ms. Sattari's workshop project</i></b>
